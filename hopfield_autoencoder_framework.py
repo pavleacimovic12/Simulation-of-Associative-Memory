@@ -2,7 +2,7 @@
 Hopfield Autoencoder Framework
 ==============================
 
-Complete implementation showing memory compression from 312 MB → 0.6 MB (99.8% reduction)
+Complete implementation showing memory compression from 312 MB → 0.1 MB (99.9% reduction)
 with perfect recall capabilities using biological neural memory principles.
 
 This framework demonstrates:
