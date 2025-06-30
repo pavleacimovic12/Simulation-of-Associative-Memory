@@ -29,7 +29,7 @@ from pathlib import Path
 class HopfieldAutoencoderFramework:
     """
     Complete Hopfield Autoencoder system demonstrating memory compression
-    from 312 MB biological dataset to 0.6 MB compressed model.
+    from 312 MB biological dataset to 0.1 MB compressed model.
     """
     
     def __init__(self, input_dim: int = 2048, encoding_dim: int = 128, 
